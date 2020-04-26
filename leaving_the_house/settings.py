@@ -31,7 +31,7 @@ SECRET_KEY = os.environ.get('BLOG_KEY')
 # 
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['https://polar-ocean-15395.herokuapp.com']
 
